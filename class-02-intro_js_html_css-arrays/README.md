@@ -11,7 +11,7 @@
 - [Topics from CSS readings](#css) *[30 minutes]*
 - [Topics from JS readings](#js) *[45 minutes]*
 - *15 minute break*
-- [Learning Journal + `git init`](#lj) *[30 minutes]*
+
 - [Review lab assignment, code demo, `git clone`](#code) *[45 minutes]*
 
 ####Announcements:
@@ -31,7 +31,7 @@
   2. There are gaps, and omissions, and depth of the subject matter that need to be addressed.
   3. We're focusing on translating into "how we use this" and getting practice in applying this material within our new IDE (Integrated Development Environment) of Atom, Chrome, and the terminal.
 
-###**Learning Objectives**
+###**Objectives**
 
 As a result of completing Day 2 of Code 201, students will:
 
